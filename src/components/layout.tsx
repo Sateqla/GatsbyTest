@@ -19,7 +19,7 @@ const Layout: React.FC<LayoutProps> = ({ pageTitle, children }) => {
           </li>
           <li className={styles.navLinkItem}>
             <Link to="/about" className={styles.navLinkText}>
-              About
+              Tietoa minusta
             </Link>
           </li>
         </ul>
